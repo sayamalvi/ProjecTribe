@@ -11,5 +11,5 @@ html, body, #root, .app {
     width: 100%;
     @apply text-sm;
     @apply bg-white;
-    @apply dark: bg-black
+    @apply dark:bg-black
 }
